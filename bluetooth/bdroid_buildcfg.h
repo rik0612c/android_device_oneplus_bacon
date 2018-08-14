@@ -20,4 +20,7 @@
 #define BLUETOOTH_QTI_SW          TRUE
 #define BT_CLEAN_TURN_ON_DISABLED TRUE
 
+// If BLE_VND_INCLUDED enabled, crashes the stack when bluetooth is turned on.
+#define BLE_VND_INCLUDED FALSE
+
 #endif
