@@ -17,8 +17,6 @@
 #ifndef _BDROID_BUILDCFG_H
 #define _BDROID_BUILDCFG_H
 
-#define BTM_DEF_LOCAL_NAME        "OnePlus One"
-
 #define BLUETOOTH_QTI_SW          TRUE
 #define BT_CLEAN_TURN_ON_DISABLED TRUE
 
